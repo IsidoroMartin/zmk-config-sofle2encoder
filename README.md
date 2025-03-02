@@ -10,4 +10,6 @@
 ## Bluetooth
 ![soflebluetooth](https://github.com/user-attachments/assets/6c6c1d46-74e9-4e91-8191-667fd3f0ec6d)
 
-[zmk editor guide](https://www.keyboardhoarders.com/post/1288093071901/zmk-change-keymap-walkthrough)
+[Keyboard Hoarders - Keymap Editor guide](https://www.keyboardhoarders.com/post/1288093071901/zmk-change-keymap-walkthrough)
+
+[Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
